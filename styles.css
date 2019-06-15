@@ -1,0 +1,39 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* begin writing your CSS below this line */
+body{  
+    background-image:url(https://i.pinimg.com/originals/16/d6/b2/16d6b2f618fe8485ded6f2201734a89d.jpg);
+    }
+h1{
+    text-align:center;
+    font-family:Georgia, serif;
+     font-size:30px;
+    
+    }
+ul{
+    list-style-type:circle;
+    }
+a{
+    font-family:"Lucida Console", Monaco, monospace;
+    }
+h3{
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif ;
+    border-bottom:groove 2px #8003C2;
+    }
+#css-zen-garden{
+   border:dotted purple;
+   width:1010px;
+   margin:auto;
+   background-color:white;
+   
+   }
+    p{
+   
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif ;
+    font-size:17px;
+    
+    }
+a:hover {
+   color: rgb(255,0,255);
+}
